@@ -1,4 +1,4 @@
-package org.blueo.models.person;
+package io.github.xinyangpan.models.person;
 
 public class Address {
 	private City city;

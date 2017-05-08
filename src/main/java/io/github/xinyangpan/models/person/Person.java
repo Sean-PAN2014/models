@@ -1,4 +1,4 @@
-package org.blueo.models.person;
+package io.github.xinyangpan.models.person;
 
 import java.util.List;
 import java.util.Map;
