@@ -93,6 +93,9 @@
 								</goals>
 							</execution>
 						</executions>
+						<configuration>
+							<keyname>65E01BA7</keyname>
+						</configuration>
 					</plugin>
 				</plugins>
 			</build>
